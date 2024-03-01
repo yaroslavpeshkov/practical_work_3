@@ -1,6 +1,5 @@
 import turtle
 
-turtle.speed(1000)
 turtle.up()
 turtle.setposition(0, 100)
 turtle.down()
